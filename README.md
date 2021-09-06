@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning Artifical Intelligence
 - 🤔 I’m looking for help with Internet of Things
 - 💬 Ask me about Python
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I dance better than deadpool
 
