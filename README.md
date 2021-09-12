@@ -1,4 +1,5 @@
 ### Hi I am Suyash Sachdeva👋
+Executive Member, SPEC
 
 - 🔭 I’m currently working on Neural Networks Porject
 - 🌱 I’m currently learning Artifical Intelligence
