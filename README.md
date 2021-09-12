@@ -1,9 +1,9 @@
 ### Hi I am Suyash Sachdeva👋
-Executive Member, SPEC
 
-- 🔭 I’m currently working on Neural Networks Porject
-- 🌱 I’m currently learning Artifical Intelligence
-- 🤔 I’m looking for help with Internet of Things
-- 💬 Ask me about Python
-- ⚡ Fun Fact: Nobody is interested in the above sentences
+-I'm currently Executive Member of SPEC
+-I’m currently working on Neural Networks Porject
+-I’m currently learning Artifical Intelligence
+-I’m looking for help with Internet of Things
+-Ask me about Python
+-Fun Fact: Nobody is interested in the above sentences
 
