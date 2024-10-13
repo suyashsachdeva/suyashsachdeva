@@ -23,17 +23,17 @@ With a strong foundation in neural network research and an insatiable curiosity 
 
 <div align="center">
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" width="550" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" width="500" alt="streak graph" />
 </div>
 
 <div align="center">
   <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="200" width="550" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="175" width="500" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <!-- Top Languages Card -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="200" width="550" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="175" width="500" alt="Top Languages" />
 </div>
 
 ---
@@ -42,47 +42,48 @@ With a strong foundation in neural network research and an insatiable curiosity 
 
 <div align="center">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
   
   <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="60" alt="tensorflow" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow" />
   
   <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="60" alt="pytorch" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" />
   
   <!-- PyTorchDyn -->
-  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="60" alt="pytorchdyn" />
+  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="50" alt="pytorchdyn" />
   
   <!-- PyG -->
-  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="60" alt="PyG" />
+  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="50" alt="PyG" />
   
   <!-- Scikit-Learn -->
-  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="60" alt="SKlearn" />
+  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="50" alt="SKlearn" />
   
   <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="60" alt="jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter" />
   
   <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="60" alt="numpy" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" />
   
   <!-- OpenCV -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="60" alt="openCV" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="openCV" />
   
   <!-- SpaCy -->
-  <img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="60" alt="Spacy" />
+  <img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="50" alt="Spacy" />
   
   <!-- RDKit -->
-  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="60" alt="RDKit" />
+  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="50" alt="RDKit" />
   
   <!-- NetworkX -->
-  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="60" alt="NetworkX" />
+  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="50" alt="NetworkX" />
   
   <!-- Matplotlib -->
-  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="60" alt="Matplotlib" />
+  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="50" alt="Matplotlib" />
   
   <!-- TQDM -->
-  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="60" alt="TQDM" />
+  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="50" alt="TQDM" />
 </div>
+
 
 
 ### Research Papers
