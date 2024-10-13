@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Suyash Sachdeva and I'm interested in Research and Development in Neural Networks</h2>
 
 ###
 
