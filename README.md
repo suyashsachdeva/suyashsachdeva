@@ -11,7 +11,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
@@ -23,7 +23,7 @@
 
 ###
 
-<img align="right" height="250" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2"  />
+<img align="right" height="225" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2"  />
 
 ###
 
