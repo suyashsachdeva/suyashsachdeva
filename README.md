@@ -24,26 +24,26 @@ With a strong foundation in neural network research and an insatiable curiosity 
 ### GitHub Stats and Contributions
 
 <div align="center">
-  <table>
+  <table style="border-collapse: collapse;">
     <tr>
-      <td>
+      <td style="text-align: justify; padding: 10px;">
         <!-- Streak Stats Card -->
-        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" width="450" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="250" width="450" alt="streak graph" />
       </td>
-      <td>
+      <td style="text-align: justify; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="250" width="450" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="250" width="450" alt="Top Languages" />
       </td>
     </tr>
     <tr>
-      <td colspan="2">
-        <!-- Top Languages Card -->
-        
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="250" width="900" alt="GitHub Stats" />
+      <td colspan="2" style="text-align: justify; padding: 10px;">
+        <!-- GitHub Stats Card -->
+        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="250" width="900" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
 </div>
+
 
 
 
