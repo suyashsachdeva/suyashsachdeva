@@ -82,9 +82,13 @@ Here are a few key contributions and projects I have worked on:
 
 Feel free to reach out if you're interested in collaboration or discussing cutting-edge research. I’m always excited to connect with fellow researchers and enthusiasts!
 
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/suyashsachdeva/)
-- **Email**: [Your Email](mailto:suyash.sachdeva@email.com)
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="suyashsachdeva2403@gmail.com" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/"/>
+</div>
 
 ---
 
 Thank you for visiting my GitHub profile!
+
+<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
