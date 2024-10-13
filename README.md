@@ -38,15 +38,10 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
   </table>
 </div>
 
-<style>
-  @media (prefers-color-scheme: dark) {
-    .snake-animation {
-      filter: invert(1); /* Adjust the filter to invert the colors in dark mode */
-    }
-  }
-</style>
-
-<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" class="snake-animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-light.svg" alt="Snake animation" />
+</picture>
 
 
 ## Tools and Technologies
