@@ -21,26 +21,25 @@ With a strong foundation in neural network research and an insatiable curiosity 
 
 ### GitHub Stats and Contributions
 
-### GitHub Stats and Contributions
-
 <div align="center">
   <table>
     <tr>
       <td>
         <!-- Streak Stats Card -->
-        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="175" width="400" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="250" width="450" alt="streak graph" />
       </td>
       <td>
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="175" width="400" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="250" width="450" alt="GitHub Stats" />
       </td>
       <td>
         <!-- Top Languages Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="175" width="400" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="250" width="450" alt="Top Languages" />
       </td>
     </tr>
   </table>
 </div>
+
 
 ---
 
