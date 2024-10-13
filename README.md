@@ -39,10 +39,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 </div>
 
 <!-- Light mode version -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-dark.svg">
-  <img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-light.svg" alt="Snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-light.svg" alt="Snake animation for light mode" id="snake-animation" />
 
 
 
