@@ -22,17 +22,17 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
     <tr>
       <td style="text-align: justify; padding: 10px;">
         <!-- Streak Stats Card -->
-        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="200" width="350" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="300" width="450" alt="streak graph" />
       </td>
       <td style="text-align: justify; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="200" width="350" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="300" width="450" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" style="text-align: center; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="200" width="700" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="300" width="900" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
