@@ -46,26 +46,50 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 
 ## Tools and Technologies
 
-<table align="center">
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" /></td>
-    <td><img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="50" alt="pytorchdyn" /></td>
-    <td><img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="50" alt="PyG" /></td>
-    <td><img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="50" alt="SKlearn" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="openCV" /></td>
-    <td><img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="50" alt="Spacy" /></td>
-    <td><img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="50" alt="RDKit" /></td>
-    <td><img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="50" alt="NetworkX" /></td>
-    <td><img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="50" alt="Matplotlib" /></td>
-    <td><img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="50" alt="TQDM" /></td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" />
+  
+  <!-- TensorFlow -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow" />
+  
+  <!-- PyTorch -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" />
+  
+  <!-- PyTorchDyn -->
+  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="50" alt="pytorchdyn" />
+  
+  <!-- PyG -->
+  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="50" alt="PyG" />
+  
+  <!-- Scikit-Learn -->
+  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="50" alt="SKlearn" />
+  
+  <!-- Jupyter -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter" />
+  
+  <!-- NumPy -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" />
+
+  <!-- OpenCV -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="openCV" />
+  
+  <!-- SpaCy -->
+  <img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="50" alt="Spacy" />
+  
+  <!-- RDKit -->
+  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="50" alt="RDKit" />
+  
+  <!-- NetworkX -->
+  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="50" alt="NetworkX" />
+  
+  <!-- Matplotlib -->
+  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="50" alt="Matplotlib" />
+  
+  <!-- TQDM -->
+  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="50" alt="TQDM" />
+</div>
+
 
 
 
