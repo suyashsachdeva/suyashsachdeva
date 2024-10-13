@@ -2,25 +2,25 @@
 
 ###
 
-<img align="right" height="200" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2" />
+<!-- <img align="right" height="200" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2" /> -->
 
 ###
 
 <div align="center">
   <!-- Streak Stats Card -->
-  <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" width="400" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="225" width="600" alt="streak graph" />
 </div>
 
 ###
 
 <div align="center">
   <!-- GitHub Stats Card (Hiding Issues and Stars) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" width="400" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="225" width="600" alt="GitHub Stats" />
 </div>
 
 <div align="center">
   <!-- Top Languages Card (Top 4 Languages) -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="150" width="400" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="225" width="600" alt="Top Languages" />
 </div>
 
 
