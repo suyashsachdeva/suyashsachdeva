@@ -77,8 +77,11 @@ Here are a few key contributions and projects I have worked on:
 Feel free to reach out if you're interested in collaboration or discussing cutting-edge research. I’m always excited to connect with fellow researchers and enthusiasts!
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="suyashsachdeva2403@gmail.com" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/"/>
+<a href="mailto:your-institute-email@domain.com" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Institute%20Mail&logo=gmail&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Institute Mail" />
+</a>
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="suyashsachdeva2403@gmail.com" />
+<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/"/>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/"/>
 
   
