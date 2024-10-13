@@ -1,8 +1,5 @@
 <h1 align="left">Hi 👋! My name is Suyash Sachdeva and I'm into R&D in Neural Networks</h1>
 
-<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
-
-
 I am a dedicated researcher specializing in neural networks and machine learning, with extensive experience in R&D across diverse projects, including:
 
 - Deep Image Steganography
@@ -25,11 +22,11 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
     <tr>
       <td style="text-align: justify; padding: 10px;">
         <!-- Streak Stats Card -->
-        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="2=350" width="450" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="350" width="450" alt="streak graph" />
       </td>
       <td style="text-align: justify; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="350" width="450" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="350" width="900" alt="Top Languages" />
       </td>
     </tr>
     <tr>
@@ -137,3 +134,6 @@ Feel free to reach out if you're interested in collaboration or discussing cutti
 ---
 
 Thank you for visiting my GitHub profile!
+
+<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
+
