@@ -17,13 +17,17 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="GitHub Stats"  />
+  
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=radical&hide_border=false&exclude_repo=repo1,repo2" height="150" alt="Top Languages"  />
 </div>
+
 
 ###
 
-<img align="right" height="225" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2"  />
+<img align="right" height="200" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2"  />
 
 ###
 
