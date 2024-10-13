@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋! I'm Suyash Sachdeva and I'm into Neural Networks</h1>
+<h1 align="left">Hi! I'm Suyash Sachdeva and I'm into Neural Networks</h1>
 
 I am a dedicated researcher specializing in neural networks and machine learning, with extensive experience in R&D across diverse projects, including:
 
