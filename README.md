@@ -70,6 +70,8 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
   
   <!-- NumPy -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" style="padding: 10px;" />
+
+  </br>
   
   <!-- OpenCV -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="openCV" style="padding: 10px;" />
