@@ -46,7 +46,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 
 ## Tools and Technologies
 
-<div align="center">
+<div align="justify">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="padding: 10px;" />
   
