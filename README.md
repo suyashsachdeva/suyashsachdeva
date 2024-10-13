@@ -13,6 +13,10 @@ I am a dedicated researcher specializing in neural networks and machine learning
 Passionate about applied and theoretical ML, I focus on understanding the principles behind neural network performance to drive advancements in robust, explainable, and efficient AI systems. My goal is to push the boundaries of AI innovation and solve complex problems.
 
 
+<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
+
+
+
 ---
 
 ### GitHub Stats and Contributions
@@ -86,13 +90,6 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
   <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="50" alt="TQDM" />
 </div>
 
-
-
-### Research Papers
-
-Here are a few key contributions and projects I have worked on:
-
-
 ---
 
 ### Get in Touch
@@ -135,5 +132,4 @@ Feel free to reach out if you're interested in collaboration or discussing cutti
 
 Thank you for visiting my GitHub profile!
 
-<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
 
