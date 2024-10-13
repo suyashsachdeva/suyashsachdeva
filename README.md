@@ -39,7 +39,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 </div>
 
 <!-- Light mode version -->
-<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-light.svg" alt="Snake animation for light mode" id="snake-animation" />
+<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
 
 
 
