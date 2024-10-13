@@ -48,47 +48,48 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 
 <div align="center">
   <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="padding: 10px;" />
   
   <!-- TensorFlow -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow" style="padding: 10px;" />
   
   <!-- PyTorch -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch" style="padding: 10px;" />
   
   <!-- PyTorchDyn -->
-  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="50" alt="pytorchdyn" style="margin: 10px;" />
+  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="50" alt="pytorchdyn" style="padding: 10px;" />
   
   <!-- PyG -->
-  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="50" alt="PyG" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="50" alt="PyG" style="padding: 10px;" />
   
   <!-- Scikit-Learn -->
-  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="50" alt="SKlearn" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="50" alt="SKlearn" style="padding: 10px;" />
   
   <!-- Jupyter -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter" style="padding: 10px;" />
   
   <!-- NumPy -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy" style="padding: 10px;" />
   
   <!-- OpenCV -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="openCV" style="margin: 10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="openCV" style="padding: 10px;" />
   
   <!-- SpaCy -->
-  <img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="50" alt="Spacy" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="50" alt="Spacy" style="padding: 10px;" />
   
   <!-- RDKit -->
-  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="50" alt="RDKit" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="50" alt="RDKit" style="padding: 10px;" />
   
   <!-- NetworkX -->
-  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="50" alt="NetworkX" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="50" alt="NetworkX" style="padding: 10px;" />
   
   <!-- Matplotlib -->
-  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="50" alt="Matplotlib" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="50" alt="Matplotlib" style="padding: 10px;" />
   
   <!-- TQDM -->
-  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="50" alt="TQDM" style="margin: 10px;" />
+  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="50" alt="TQDM" style="padding: 10px;" />
 </div>
+
 
 
 ---
