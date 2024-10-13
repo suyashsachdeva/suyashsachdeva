@@ -46,7 +46,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 
 ## Tools and Technologies
 
-<div align="center" style="line-height: 2;">
+<div align="center" style="line-height: 20;">
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python" style="margin: 20px; display: inline-block;" />
   
