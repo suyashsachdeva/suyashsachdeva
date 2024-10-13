@@ -1,5 +1,10 @@
 <h2 align="left">Hi 👋! My name is Suyash Sachdeva and I'm into R&D in Neural Networks</h2>
 
+###
+
+<img align="right" height="200" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2"  />
+
+###
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
@@ -15,13 +20,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=false" height="150" alt="Top Languages"  />
 </div>
 
-
-
-###
-
-<img align="right" height="200" src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python"  />
