@@ -32,7 +32,8 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
     <tr>
       <td colspan="2" style="text-align: center; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="200" width="900" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=true" height="200" width="900" alt="GitHub Stats" />
+
       </td>
     </tr>
   </table>
@@ -96,7 +97,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 Feel free to reach out if you're interested in collaboration or discussing cutting-edge research. I’m always excited to connect with fellow researchers and enthusiasts!
 
 <div align="left">
-<a href="mailto:your-institute-email@domain.com" target="_blank">
+<a href="20dec001@nith.ac.in" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Institute%20Mail&logo=gmail&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Institute Mail" />
 </a>
 <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="suyashsachdeva2403@gmail.com" />
