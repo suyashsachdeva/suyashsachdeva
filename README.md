@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Suyash Sachdeva and I'm interested in R&D in Neural Networks</h2>
+<h2 align="left">Hi 👋! My name is Suyash Sachdeva and I'm into R&D in Neural Networks</h2>
 
 ###
 
@@ -20,13 +20,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorch"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="pytorchdyn"  />
+  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="30" alt="pytorchdyn"  />
   <img width="12" />  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="30" alt="PyG"  />
+  <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" height="30" alt="PyG"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="numpy"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="openCV"  />
 </div>
