@@ -1,12 +1,15 @@
-<!-- Header section with title and profile image -->
-<div align="center">
-  <h1>Welcome to My GitHub Profile!</h1>
-  <img src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2" alt="Profile Image" height="200"/>
-</div>
+<h2 align="left">Hi 👋! My name is Suyash Sachdeva and I'm into R&D in Neural Networks</h2>
+
+
+
 
 ---
 
 ### About Me
+<div align="right">
+  <h1>Welcome to My GitHub Profile!</h1>
+  <img src="https://github.com/user-attachments/assets/8b452fd0-ee76-4077-82e9-04921a6819e2" alt="Profile Image" height="200"/>
+</div>
 
 I am a dedicated researcher with extensive experience in Research and Development, specializing in the fields of neural networks and machine learning.
 
