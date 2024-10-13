@@ -38,10 +38,12 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
   </table>
 </div>
 
+<!-- Light mode version -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-dark.svg">
   <img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake-light.svg" alt="Snake animation" />
 </picture>
+
 
 
 ## Tools and Technologies
