@@ -22,13 +22,25 @@
   <img width="12" />
   <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="30" alt="pytorchdyn"  />
   <img width="12" />  
-  <img src="https://raw.githubusercontent.com/pyg-team/pyg_sphinx_theme/master/pyg_sphinx_theme/static/img/pyg_logo_text.svg?sanitize=true" height="30" alt="PyG"  />
+  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="30" alt="PyG"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="30" alt="SKlearn"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" alt="openCV"  />
+  <img width="12" />
+  <img src="(https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="30" alt="Spacy"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="30" alt="RDKit"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="30" alt="NetworkX"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="30" alt="Matplotlib"  />
+  <img width="12" />
+  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="30" alt="TQDM"  />
 </div>
 
 ###
