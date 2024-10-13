@@ -1,4 +1,6 @@
-<h2 align="left">Hi 👋! My name is Suyash Sachdeva and I'm into R&D in Neural Networks</h2>
+<h1 align="left">Hi 👋! My name is Suyash Sachdeva and I'm into R&D in Neural Networks</h1>
+
+<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
 
 
 I am a dedicated researcher with extensive experience in Research and Development, specializing in the fields of neural networks and machine learning.
@@ -141,5 +143,3 @@ Feel free to reach out if you're interested in collaboration or discussing cutti
 ---
 
 Thank you for visiting my GitHub profile!
-
-<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
