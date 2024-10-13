@@ -65,16 +65,10 @@ With a strong foundation in neural network research and an insatiable curiosity 
 
 ---
 
-### Contributions and Projects
+### Research Papers
 
 Here are a few key contributions and projects I have worked on:
 
-1. **Deep Image Steganography**: Data-encrypting deep learning processes to securely hide information within images.
-2. **VLSI Data Modeling**: Developing machine learning models for complex VLSI circuit behavior analysis.
-3. **Drug Analysis**: Leveraging graph neural networks for drug classification.
-4. **Adversarial Attacks and Defenses**: Studying neural network vulnerabilities and defenses against adversarial attacks.
-5. **Statistical and Neural Language Models**: Building models for language understanding and generation.
-6. **Liquid State Machines and Chaotic Neural Networks**: Exploring dynamic neural architectures for complex problem-solving.
 
 ---
 
@@ -85,6 +79,27 @@ Feel free to reach out if you're interested in collaboration or discussing cutti
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="suyashsachdeva2403@gmail.com" />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/"/>
+
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn Profile" />
+  </a>
+  
+  <!-- Google Scholar Badge -->
+  <a href="https://scholar.google.com/citations?user=your-profile-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=google-scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Scholar Profile" />
+  </a>
+  
+  <!-- Kaggle Badge -->
+  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle Profile" />
+  </a>
+  
+  <!-- ResearchGate Badge -->
+  <a href="https://www.researchgate.net/profile/your-profile-id" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ResearchGate Profile" />
+  </a>
 </div>
 
 ---
