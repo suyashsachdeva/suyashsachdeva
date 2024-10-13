@@ -34,33 +34,33 @@ With a strong foundation in neural network research and an insatiable curiosity 
 </div>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="75" alt="python"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="50" alt="tensorflow"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="75" alt="tensorflow"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="50" alt="pytorch"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="75" alt="pytorch"  />
   <img width="12" />
-  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="50" alt="pytorchdyn"  />
+  <img src="https://github.com/DiffEqML/diffeqml-media/blob/main/images/torchdyn_v2.png" height="75" alt="pytorchdyn"  />
   <img width="12" />  
-  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="50" alt="PyG"  />
+  <img src="https://github.com/user-attachments/assets/517bd13f-b296-494f-a366-2dacfb7e0b8a" height="75" alt="PyG"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="50" alt="SKlearn"  />
+  <img src="https://github.com/user-attachments/assets/f86cf081-e971-4ca9-bafc-33bb0253b270" height="75" alt="SKlearn"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="50" alt="jupyter"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="75" alt="jupyter"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="75" alt="numpy"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="50" alt="openCV"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="75" alt="openCV"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="50" alt="Spacy"  />
+  <img src="https://github.com/user-attachments/assets/5aa86970-4d84-4f4a-ad4e-726afb0c8156" height="75" alt="Spacy"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="50" alt="RDKit"  />
+  <img src="https://github.com/user-attachments/assets/cddbfb40-2f35-4eaa-a6bb-1f6288054dbf" height="75" alt="RDKit"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="50" alt="NetworkX"  />
+  <img src="https://github.com/user-attachments/assets/f04b1eac-6813-40d0-bd16-a968ebae9095" height="75" alt="NetworkX"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="50" alt="Matplotlib"  />
+  <img src="https://github.com/user-attachments/assets/dee011df-0cef-43bc-8580-d4a399da7bd5" height="75" alt="Matplotlib"  />
   <img width="12" />
-  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="50" alt="TQDM"  />
+  <img src="https://github.com/user-attachments/assets/d3815b19-362b-40fe-bfe9-b7e7dfeec167" height="75" alt="TQDM"  />
 </div>
 
 ---
