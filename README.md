@@ -3,21 +3,18 @@
 <img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
 
 
-I am a dedicated researcher with extensive experience in Research and Development, specializing in the fields of neural networks and machine learning.
-
-My work spans a diverse range of innovative projects, including:
+I am a dedicated researcher specializing in neural networks and machine learning, with extensive experience in R&D across diverse projects, including:
 
 - Deep Image Steganography
 - VLSI Data Modeling
 - Drug Analysis
-- Adversarial Attacks and Defenses
-- Statistical and Neural Language Models
+- Adversarial Attacks & Defenses
+- Neural Language Models
 - Liquid State Machines
 - Chaotic Neural Networks
 
-I have a passion for both applied and theoretical machine learning, driven by the desire to understand why neural networks succeed or fail in different scenarios. My focus is on uncovering the fundamental principles behind their performance, aiming to contribute to the advancement of more robust, explainable, and efficient AI systems.
+Passionate about applied and theoretical ML, I focus on understanding the principles behind neural network performance to drive advancements in robust, explainable, and efficient AI systems. My goal is to push the boundaries of AI innovation and solve complex problems.
 
-With a strong foundation in neural network research and an insatiable curiosity to solve complex problems, I am always seeking opportunities to push the boundaries of AI and contribute to groundbreaking innovations.
 
 ---
 
@@ -28,24 +25,21 @@ With a strong foundation in neural network research and an insatiable curiosity 
     <tr>
       <td style="text-align: justify; padding: 10px;">
         <!-- Streak Stats Card -->
-        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="250" width="450" alt="streak graph" />
+        <img src="https://streak-stats.demolab.com?user=suyashsachdeva&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="2=350" width="450" alt="streak graph" />
       </td>
       <td style="text-align: justify; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="250" width="450" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="350" width="450" alt="Top Languages" />
       </td>
     </tr>
     <tr>
       <td colspan="2" style="text-align: justify; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="250" width="900" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=suyashsachdeva&hide=issues,stars&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="250" width="750" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
 </div>
-
-
-
 
 ---
 
