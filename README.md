@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Suyash Sachdeva and I'm into R&D in Neural Networks</h1>
+<h1 align="left">Hi👋! I'm Suyash Sachdeva and I'm into R&D in Neural Networks</h1>
 
 I am a dedicated researcher specializing in neural networks and machine learning, with extensive experience in R&D across diverse projects, including:
 
@@ -19,7 +19,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 
 ---
 
-### GitHub Stats and Contributions
+## GitHub Stats and Contributions
 
 <div align="center">
   <table style="border-collapse: collapse;">
@@ -44,7 +44,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 
 ---
 
-### Tools and Technologies
+## Tools and Technologies
 
 <div align="center">
   <!-- Python -->
@@ -92,7 +92,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
 
 ---
 
-### Get in Touch
+## Get in Touch
 
 Feel free to reach out if you're interested in collaboration or discussing cutting-edge research. I’m always excited to connect with fellow researchers and enthusiasts!
 
