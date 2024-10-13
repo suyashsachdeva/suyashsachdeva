@@ -3,17 +3,13 @@
 I am a dedicated researcher specializing in neural networks and machine learning, with extensive experience in R&D across diverse projects, including:
 
 - Deep Image Steganography
-- VLSI Data Modeling
 - Drug Analysis
 - Adversarial Attacks & Defenses
-- Neural Language Models
 - Liquid State Machines
 - Chaotic Neural Networks
 
 Passionate about applied and theoretical ML, I focus on understanding the principles behind neural network performance to drive advancements in robust, explainable, and efficient AI systems. My goal is to push the boundaries of AI innovation and solve complex problems.
 
-
-<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
 
 
 
@@ -42,7 +38,7 @@ Passionate about applied and theoretical ML, I focus on understanding the princi
   </table>
 </div>
 
----
+<img src="https://raw.githubusercontent.com/suyashsachdeva/suyashsachdeva/output/snake.svg" alt="Snake animation" />
 
 ## Tools and Technologies
 
