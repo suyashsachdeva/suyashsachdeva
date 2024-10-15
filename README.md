@@ -1,11 +1,12 @@
 <h1 align="left">Hi! I'm Suyash Sachdeva, a Neural Networks Enthusiast</h1>
 I am a dedicated researcher with a deep passion for neural networks and machine learning. My expertise spans multiple areas of R&D, including:
 
-Deep Image Steganography
-Drug Analysis
-Adversarial Attacks & Defenses
-Liquid State Machines
-Chaotic Neural Networks
+- Deep Image Steganography
+- Drug Analysis
+- Adversarial Attacks & Defenses
+- Liquid State Machines
+- Chaotic Neural Networks
+
 I am particularly focused on applying both theoretical and practical machine learning methods to enhance the performance of neural networks. By delving into the underlying principles, I strive to push the boundaries of AI innovation and create robust, explainable, and efficient systems. My interests lie heavily in computer vision and VLSI-based machine learning applications.
 
 
