@@ -143,5 +143,6 @@ Feel free to reach out if you're interested in collaboration or discussing cutti
 ---
 
 Thank you for visiting my GitHub profile!
+![View Count](https://komarev.com/ghpvc/suyashsachdeva)
 
 
