@@ -23,7 +23,7 @@ I am particularly focused on applying both theoretical and practical machine lea
       </td>
       <td style="text-align: justify; padding: 10px;">
         <!-- GitHub Stats Card -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=radical&hide_border=true" height="200" width="450" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=suyashsachdeva&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true" height="200" width="450" alt="Top Languages" />
       </td>
     </tr>
     <tr>
