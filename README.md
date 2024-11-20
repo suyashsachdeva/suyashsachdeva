@@ -109,10 +109,10 @@ I am particularly focused on applying both theoretical and practical machine lea
 Feel free to reach out if you're interested in collaboration or discussing cutting-edge research. I’m always excited to connect with fellow researchers and enthusiasts!
 
 <div align="left">
-<a href="20dec001@nith.ac.in" target="_blank">
+<a href="mailto:20dec001@nith.ac.in" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Institute%20Mail&logo=gmail&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Institute Mail" />
 </a>
-<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="suyashsachdeva2403@gmail.com" />
+<img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" href="mailto:suyashsachdeva2403@gmail.com" />
 <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo", href="https://www.linkedin.com/in/suyash-sachdeva-3096b3202/"/>
 
   
@@ -121,12 +121,12 @@ Feel free to reach out if you're interested in collaboration or discussing cutti
     <img src="https://img.shields.io/static/v1?message=Google%20Scholar&logo=google-scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Google Scholar Profile" />
   </a>
 
-  <a href="https://www.kaggle.com/suyashsachdeva" target="_blank">
+  <a href="https://www.researchgate.net/profile/Suyash-Sachdeva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=ResearchGate&logo=researchgate&label=&color=00CCBB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ResearchGate Profile" />
   </a>
   
   <!-- Kaggle Badge -->
-  <a href="https://www.kaggle.com/your-kaggle-username" target="_blank">
+  <a href="https://www.kaggle.com/suyashsachdeva" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Kaggle Profile" />
   </a>
   
